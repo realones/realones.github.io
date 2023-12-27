@@ -14,7 +14,7 @@ timezone: America/Los_Angeles
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Eugene.J's Blogs # the main title
+title: Eugene.J's Blog # the main title
 
 tagline: A blog site for realones # it will display as the sub-title
 
