@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Hi, I'm Eugene\
-A software developer
+> Hi, I'm Eugene
