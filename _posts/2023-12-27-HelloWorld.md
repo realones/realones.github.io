@@ -1,10 +1,30 @@
 ---
-title: hello my friends
+title: How to build this blog site
 date: 2022-11-11 10:00:00 -0800
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
-tags: [tag1]     # TAG names should always be lowercase
+categories: \[HowTo, Technology\]
+tags: \[blog, github, jekyll\] # TAG names should always be lowercase
 ---
 
-# hello
+# How to build this blog site
 
-hello world
+This blog site is based on github page, which means this page is free to use, and
+
+**Step 1**: host a basic github page
+
+- [https://pages.github.com/](https://pages.github.com/)
+
+**Step 2**: install Jekyll and dependencies on your local system
+
+- [https://jekyllrb.com/docs/installation/macos/](https://jekyllrb.com/docs/installation/macos/)
+
+**Step 3**: pick a Jekyll theme and host your blog site
+
+- [https://jekyllrb.com/docs/themes/](https://jekyllrb.com/docs/themes/)
+
+I choosed Following theme, because it is simple and has dark mode, as well as searching feature
+
+- [https://github.com/cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+
+go ahead and refer to the guidance provided by this theme and you are ready to rock
+
+- [https://chirpy.cotes.page/posts/getting-started/](https://chirpy.cotes.page/posts/getting-started/)
