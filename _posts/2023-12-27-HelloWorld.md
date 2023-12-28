@@ -1,8 +1,8 @@
 ---
 title: How to build this blog site
 date: 2023-12-27 10:00:00 -0800
-categories: \[HowTo, Technology\]
-tags: \[blog, github, jekyll\] # TAG names should always be lowercase
+categories: [HowTo, Technology]
+tags: [blog, github, jekyll] # TAG names should always be lowercase
 ---
 
 # How to build this blog site
