@@ -21,7 +21,7 @@ This blog site is based on github page, which means this page is free to use, an
 
 - [https://jekyllrb.com/docs/themes/](https://jekyllrb.com/docs/themes/)
 
-I choosed Following theme, because it is simple and has dark mode, as well as searching feature
+I choosed Following theme, because it is simple and has dark mode, as well as a searching feature
 
 - [https://github.com/cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 
