@@ -1,13 +1,13 @@
 ---
 title: How to build this blog site
 date: 2023-12-27 10:00:00 -0800
-categories: [HowTo, Technology]
-tags: [blog, github, jekyll] # TAG names should always be lowercase
+categories: \[HowTo, Technology\]
+tags: \[blog, github, jekyll\] # TAG names should always be lowercase
 ---
 
 # How to build this blog site
 
-This blog site is based on github page, which means this page is free to use, and
+This blog site is based on the Github page, which means it is free hosting, support markdown and version control, and lots of other benefits from Github since it is integrated with Github.
 
 **Step 1**: host a basic github page
 
