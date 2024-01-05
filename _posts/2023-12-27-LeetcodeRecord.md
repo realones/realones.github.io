@@ -11,6 +11,6 @@ This is a record of my leetcode solution orgnazition.
 
 - [notion link](https://resolute-feels-15f.notion.site/49e0dbff6672498c8c602b2f51ab5d85?v=8b3e12499b7a48838ebad123920009c3)
 
-**Github**: host a back up of above leetcode solutions, with all infomation included
+**Github**: back up of above leetcode solutions
 
 - [github link](https://github.com/realones/LeetCodeNotionBackup/tree/main/LeetCode%2049e0dbff6672498c8c602b2f51ab5d85)
