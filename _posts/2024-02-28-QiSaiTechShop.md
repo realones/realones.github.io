@@ -25,8 +25,8 @@ P.S. 想起我读大学的时候，去东大三好街买电脑，同样是电脑
 
 帮我修手机的店铺：
 
-![alt text](./2024-02-28-QiSaiTechShop/971709280016_.pic_hd.jpg)
+![alt text](/_posts/2024-02-28-QiSaiTechShop/971709280016_.pic_hd.jpg)
 
 电脑城一角：
 
-![alt text](./2024-02-28-QiSaiTechShop/951709280000_.pic_hd.jpg)
+![alt text](/_posts/2024-02-28-QiSaiTechShop/951709280000_.pic_hd.jpg)
