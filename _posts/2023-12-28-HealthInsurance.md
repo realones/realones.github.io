@@ -2,7 +2,7 @@
 title: 在美国如何申请SelfEmployment医保
 date: 2023-12-28 19:00:00 -0800
 categories: [HowTo, 生活]
-tags: [HealthInsurance] # TAG names should always be lowercase
+tags: [healthInsurance] # TAG names should always be lowercase
 ---
 
 这篇文章讲一下在美国如何申请self employment医保。
