@@ -25,6 +25,8 @@ P.S. 想起我读大学的时候，去东大三好街买电脑，同样是电脑
 
 帮我修手机的店铺：
 
+![alt text](/assets/img/favicons/apple-touch-icon.png)
+
 ![alt text](/_posts/2024-02-28-QiSaiTechShop/android-chrome-192x192.png)
 
 ![alt text](/_posts/2024-02-28-QiSaiTechShop/971709280016_.pic_hd.jpg)
